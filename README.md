@@ -1,8 +1,7 @@
 # Web shop testing
 I tested a [webshop](https://demoshop.webmercs.com/) and prepared test documentation:
 <ul>
-<li>  <a href="https://docs.google.com/document/d/18lFtHNOJ1h2LxDpS58EJojt_vPziZKdQFfn6E_4L3j8/edit?usp=sharing">Test plan</a> describing what to test and how to test (functions, types of testing, tools), main work stages, risks. </li> 
-<li>  <a href="https://docs.google.com/spreadsheets/d/1WdfBOKHmpUc9LOP9rD9P1UQ6aQtu5AJ5i7NaHL7ADEY/edit?usp=sharing"> Checklist </a> for testing the shopping cart and the payment module. </li>
-<li> <a href="https://drive.google.com/file/d/1CUULNNN908nPxZ_BHBjYKYVXcCQR46-H/view?usp=sharing">Test cases via TestIT</a> for testing the shopping cart and the payment module.  </li>
-<li>  <a href="https://drive.google.com/drive/folders/1gxWu9LwcJ01RvWIwo-J99a3qwQFtV7_S?usp=sharing">Bug Report example via YouTrack</a> with an attachmet. </li>
+<li>  <a href="https://docs.google.com/spreadsheets/d/1JUhAMNSGQngcGcoNy3-KG9cAdZqpFcRd/edit?usp=sharing&ouid=115802836196495842177&rtpof=true&sd=true">Checklist</a> for testing registration module . </li>
+<li> <a href="https://drive.google.com/file/d/19aPN10Td173SPQTcLckm2C2Y5UqWAKJa/view?usp=sharing">Test cases via TestIT</a> for testing the login functionality.  </li>
+<li>  <a href="https://drive.google.com/drive/folders/1Vu1OyBDptpEsvqBFdYg1LMc-3mtiYztA?usp=sharing">Bug Report example via Jira</a> with an attachmet. </li>
 </ul>
